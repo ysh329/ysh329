@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src=http://yuenshome.space/about/assets/hardwork.jpg>
+
+**请继续努力！**
